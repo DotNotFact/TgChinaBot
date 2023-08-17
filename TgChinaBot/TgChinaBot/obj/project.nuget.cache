@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QuNDbhYxGhmCp72SVaIB1QOv69AzH8Iw3dSpWL97XdTjBWIZfFyxjAJhpqEAGdILUptvdaHVXcTJ0VSUNO5muw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DotNotFact\\Desktop\\Projects\\Git Project\\TgChinaBot\\TgChinaBot\\TgChinaBot\\TgChinaBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DotNotFact\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DotNotFact\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
